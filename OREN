@@ -1,0 +1,13 @@
+local args = {
+    [1] = "a=Instance.new('Model',workspace)a.Name='OAnUZxVxhEwA'"
+}
+
+game:GetService("ReplicatedStorage").MorphEvents.MorphOren:FireServer(unpack(args))
+
+local args = {
+    [1] = "a=Instance.new('Model',workspace)a.Name='pUDXumUMXPLPLHGgrUkQlSWwoQo'"
+}
+
+game:GetService("ReplicatedStorage").MobileEvents.Oren:FireServer(unpack(args))
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
