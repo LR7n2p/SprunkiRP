@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").MorphEvents.MorphJevin:FireServer()
+
+game:GetService("ReplicatedStorage").MobileEvents.Jevin:FireServer()
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
