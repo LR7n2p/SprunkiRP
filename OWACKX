@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").MorphEvents.MorphOwackx:FireServer()
+
+game:GetService("ReplicatedStorage").MobileEvents.Owackx:FireServer()
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
