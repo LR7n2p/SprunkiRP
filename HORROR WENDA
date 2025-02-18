@@ -1,0 +1,13 @@
+local args = {
+    [1] = "a=Instance.new('Model',workspace)a.Name='PKKmqKWpvsnIPXNXpCfjxKzGxav'"
+}
+
+game:GetService("ReplicatedStorage").HorrorMorphEvents.Wenda:FireServer(unpack(args))
+
+local args = {
+    [1] = "a=Instance.new('Model',workspace)a.Name='eOWMaTTbiLXLoyMp'"
+}
+
+game:GetService("ReplicatedStorage").MobileEvents.HorrorWenda:FireServer(unpack(args))
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
