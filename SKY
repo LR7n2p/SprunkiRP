@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").MorphEvents.MorphSky:FireServer()
+
+game:GetService("ReplicatedStorage").MobileEvents.Sky:FireServer()
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
