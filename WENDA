@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").MorphEvents.MorphWenda:FireServer()
+
+game:GetService("ReplicatedStorage").MobileEvents.Wenda:FireServer()
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
