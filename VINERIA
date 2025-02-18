@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").MorphEvents.MorphVineria:FireServer()
+
+game:GetService("ReplicatedStorage").MobileEvents.Vineria:FireServer()
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
