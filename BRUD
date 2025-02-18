@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").MorphEvents.MorphBrud:FireServer()
+
+game:GetService("ReplicatedStorage").MobileEvents.Brud:FireServer()
+
+game:GetService("ReplicatedStorage").RemoveEVENT:FireServer()
